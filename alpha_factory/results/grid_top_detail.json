@@ -1,0 +1,1454 @@
+[
+  {
+    "alpha_id": "GR2559",
+    "strategy": "grid",
+    "n_grid": 8,
+    "grid_step": 0.0048304226660110285,
+    "tp_steps": 1,
+    "recenter_bars": 30,
+    "recenter_threshold": 0.066946271936053,
+    "leverage": 2,
+    "target_pct": 0.5,
+    "is_sharpe_mean": 2.681789828079148,
+    "is_pnl_pct_mean": 4.2123731733077605,
+    "is_max_dd_worst": -4.278893983975922,
+    "oos_sharpe_mean": 4.2032961137289435,
+    "oos_pnl_pct_mean": 1.4590117697465794,
+    "oos_max_dd_worst": -1.7199745984653236,
+    "n_sym_profit_oos": 9,
+    "avg_fills": 507.9,
+    "per_symbol": [
+      {
+        "symbol": "BTCUSDT",
+        "n_fills": 454,
+        "is_pnl_pct": 4.714466159378044,
+        "is_sharpe": 4.577614272699551,
+        "is_max_dd": -1.8245641864044044,
+        "oos_pnl_pct": 0.7097112133715927,
+        "oos_sharpe": 3.2991614945584584,
+        "oos_max_dd": -0.4773564782749963
+      },
+      {
+        "symbol": "ETHUSDT",
+        "n_fills": 641,
+        "is_pnl_pct": 4.36105224472396,
+        "is_sharpe": 2.45939723584457,
+        "is_max_dd": -3.7399460681166605,
+        "oos_pnl_pct": 2.3269566008129914,
+        "oos_sharpe": 5.286769819655985,
+        "oos_max_dd": -1.0348203130755065
+      },
+      {
+        "symbol": "SOLUSDT",
+        "n_fills": 684,
+        "is_pnl_pct": 7.077651173247286,
+        "is_sharpe": 3.7610879467424807,
+        "is_max_dd": -4.278893983975922,
+        "oos_pnl_pct": 0.7305366521761243,
+        "oos_sharpe": 1.7290749459572317,
+        "oos_max_dd": -1.7199745984653236
+      },
+      {
+        "symbol": "BNBUSDT",
+        "n_fills": 342,
+        "is_pnl_pct": 3.3890800470207436,
+        "is_sharpe": 4.087402116761742,
+        "is_max_dd": -1.4498200638349046,
+        "oos_pnl_pct": 0.8925358178774696,
+        "oos_sharpe": 6.317813799672092,
+        "oos_max_dd": -0.2952596627222738
+      },
+      {
+        "symbol": "XRPUSDT",
+        "n_fills": 464,
+        "is_pnl_pct": 2.742783156518708,
+        "is_sharpe": 2.3539671174014702,
+        "is_max_dd": -2.858259766453575,
+        "oos_pnl_pct": 0.5040965440970285,
+        "oos_sharpe": 1.4072491184502274,
+        "oos_max_dd": -1.1905893058308539
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "n_fills": 1006,
+        "is_pnl_pct": 9.846600497865275,
+        "is_sharpe": 5.9681389608068205,
+        "is_max_dd": -1.8825882218037442,
+        "oos_pnl_pct": 4.732954665748803,
+        "oos_sharpe": 7.392998461589635,
+        "oos_max_dd": -1.6934247409917045
+      },
+      {
+        "symbol": "ADAUSDT",
+        "n_fills": 698,
+        "is_pnl_pct": 6.090312076079572,
+        "is_sharpe": 3.6560266126401606,
+        "is_max_dd": -3.9071353713478127,
+        "oos_pnl_pct": 1.831503474745623,
+        "oos_sharpe": 6.0869153191412515,
+        "oos_max_dd": -0.666199002104513
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "n_fills": 648,
+        "is_pnl_pct": 5.302178851764657,
+        "is_sharpe": 2.762729098323321,
+        "is_max_dd": -2.820848490980534,
+        "oos_pnl_pct": 2.658933155498944,
+        "oos_sharpe": 7.185558085925395,
+        "oos_max_dd": -0.6415702976312968
+      },
+      {
+        "symbol": "USDCUSDT",
+        "n_fills": 0,
+        "is_pnl_pct": 0.0,
+        "is_sharpe": 9.636153957465618e-17,
+        "is_max_dd": -3.637978807091713e-14,
+        "oos_pnl_pct": -3.637978807091713e-14,
+        "oos_sharpe": -0.06944753398249681,
+        "oos_max_dd": -3.637978807091713e-14
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "n_fills": 142,
+        "is_pnl_pct": -1.400392473520642,
+        "is_sharpe": -2.8084650804286326,
+        "is_max_dd": -2.096353708074512,
+        "oos_pnl_pct": 0.20288957313725403,
+        "oos_sharpe": 3.3968676263216615,
+        "oos_max_dd": -0.19751486257986473
+      }
+    ]
+  },
+  {
+    "alpha_id": "GR2946",
+    "strategy": "grid",
+    "n_grid": 8,
+    "grid_step": 0.006090624423751772,
+    "tp_steps": 1,
+    "recenter_bars": 30,
+    "recenter_threshold": 0.07110471404824786,
+    "leverage": 2,
+    "target_pct": 0.5,
+    "is_sharpe_mean": 2.8678750539293842,
+    "is_pnl_pct_mean": 3.612256050013633,
+    "is_max_dd_worst": -3.557139615815667,
+    "oos_sharpe_mean": 3.975960900014884,
+    "oos_pnl_pct_mean": 1.1457307141984168,
+    "oos_max_dd_worst": -1.5394407131290062,
+    "n_sym_profit_oos": 9,
+    "avg_fills": 328.3,
+    "per_symbol": [
+      {
+        "symbol": "BTCUSDT",
+        "n_fills": 302,
+        "is_pnl_pct": 3.913043874669875,
+        "is_sharpe": 4.319735640337536,
+        "is_max_dd": -1.591077600294939,
+        "oos_pnl_pct": 0.4242258643313289,
+        "oos_sharpe": 1.7953824713055984,
+        "oos_max_dd": -0.5783950719270979
+      },
+      {
+        "symbol": "ETHUSDT",
+        "n_fills": 389,
+        "is_pnl_pct": 2.736584098542298,
+        "is_sharpe": 1.7165678927508594,
+        "is_max_dd": -2.8787160213114475,
+        "oos_pnl_pct": 1.6315306365320248,
+        "oos_sharpe": 4.460864363974703,
+        "oos_max_dd": -0.7037411561829322
+      },
+      {
+        "symbol": "SOLUSDT",
+        "n_fills": 490,
+        "is_pnl_pct": 7.01322453427707,
+        "is_sharpe": 4.136990274771349,
+        "is_max_dd": -3.352405014906508,
+        "oos_pnl_pct": 1.5911932302528111,
+        "oos_sharpe": 3.989281681484869,
+        "oos_max_dd": -1.3444020999898747
+      },
+      {
+        "symbol": "BNBUSDT",
+        "n_fills": 212,
+        "is_pnl_pct": 2.544942573968092,
+        "is_sharpe": 3.567529475963439,
+        "is_max_dd": -1.2139954934349588,
+        "oos_pnl_pct": 0.6718584519210891,
+        "oos_sharpe": 5.630336686012432,
+        "oos_max_dd": -0.20187819202828905
+      },
+      {
+        "symbol": "XRPUSDT",
+        "n_fills": 273,
+        "is_pnl_pct": 1.7787868315087871,
+        "is_sharpe": 1.994641198657899,
+        "is_max_dd": -2.200100791955683,
+        "oos_pnl_pct": 0.2876451010931851,
+        "oos_sharpe": 2.0076079606370323,
+        "oos_max_dd": -0.43106341181281094
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "n_fills": 624,
+        "is_pnl_pct": 7.904227128759521,
+        "is_sharpe": 5.7962100181328235,
+        "is_max_dd": -2.3571197269132793,
+        "oos_pnl_pct": 3.2038221531486486,
+        "oos_sharpe": 6.089873458616465,
+        "oos_max_dd": -1.5394407131290062
+      },
+      {
+        "symbol": "ADAUSDT",
+        "n_fills": 489,
+        "is_pnl_pct": 5.769453655832567,
+        "is_sharpe": 4.295785142408897,
+        "is_max_dd": -3.557139615815667,
+        "oos_pnl_pct": 1.644400360245836,
+        "oos_sharpe": 6.561357480902691,
+        "oos_max_dd": -0.46646431636490887
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "n_fills": 404,
+        "is_pnl_pct": 4.402862250206818,
+        "is_sharpe": 2.709504553891925,
+        "is_max_dd": -1.8949985475746507,
+        "oos_pnl_pct": 1.8909868341141007,
+        "oos_sharpe": 5.897484804875518,
+        "oos_max_dd": -0.7222870651829363
+      },
+      {
+        "symbol": "USDCUSDT",
+        "n_fills": 0,
+        "is_pnl_pct": 0.0,
+        "is_sharpe": 9.636153957465618e-17,
+        "is_max_dd": -3.637978807091713e-14,
+        "oos_pnl_pct": -3.637978807091713e-14,
+        "oos_sharpe": -0.06944753398249681,
+        "oos_max_dd": -3.637978807091713e-14
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "n_fills": 100,
+        "is_pnl_pct": 0.05943555237130567,
+        "is_sharpe": 0.1417863423791134,
+        "is_max_dd": -1.719975579820366,
+        "oos_pnl_pct": 0.11164451034517697,
+        "oos_sharpe": 3.3968676263220288,
+        "oos_max_dd": -0.10868695605024187
+      }
+    ]
+  },
+  {
+    "alpha_id": "GR0368",
+    "strategy": "grid",
+    "n_grid": 5,
+    "grid_step": 0.00506161937059015,
+    "tp_steps": 1,
+    "recenter_bars": 30,
+    "recenter_threshold": 0.07503341169693664,
+    "leverage": 3,
+    "target_pct": 0.5,
+    "is_sharpe_mean": 2.6403221290973016,
+    "is_pnl_pct_mean": 9.04033632667967,
+    "is_max_dd_worst": -10.434012628608762,
+    "oos_sharpe_mean": 3.9361797788254917,
+    "oos_pnl_pct_mean": 3.3131240786049347,
+    "oos_max_dd_worst": -4.368670019487453,
+    "n_sym_profit_oos": 9,
+    "avg_fills": 446.8,
+    "per_symbol": [
+      {
+        "symbol": "BTCUSDT",
+        "n_fills": 446,
+        "is_pnl_pct": 12.256951255746516,
+        "is_sharpe": 4.915452427164104,
+        "is_max_dd": -4.335016098600554,
+        "oos_pnl_pct": 1.374853098479216,
+        "oos_sharpe": 2.78174242481567,
+        "oos_max_dd": -1.2042561323471819
+      },
+      {
+        "symbol": "ETHUSDT",
+        "n_fills": 559,
+        "is_pnl_pct": 8.731012825151502,
+        "is_sharpe": 2.4007159493011687,
+        "is_max_dd": -6.626912423877076,
+        "oos_pnl_pct": 5.225877897343853,
+        "oos_sharpe": 4.925130560496273,
+        "oos_max_dd": -2.5566877119988387
+      },
+      {
+        "symbol": "SOLUSDT",
+        "n_fills": 594,
+        "is_pnl_pct": 14.983133517914576,
+        "is_sharpe": 3.51249553515054,
+        "is_max_dd": -10.434012628608762,
+        "oos_pnl_pct": 1.4208971474898318,
+        "oos_sharpe": 1.4052844597222445,
+        "oos_max_dd": -4.368670019487453
+      },
+      {
+        "symbol": "BNBUSDT",
+        "n_fills": 302,
+        "is_pnl_pct": 7.54572073593692,
+        "is_sharpe": 3.9701330706423703,
+        "is_max_dd": -3.2913098022040685,
+        "oos_pnl_pct": 1.7682705791306035,
+        "oos_sharpe": 5.51565459014341,
+        "oos_max_dd": -0.6832193708251362
+      },
+      {
+        "symbol": "XRPUSDT",
+        "n_fills": 384,
+        "is_pnl_pct": 4.528461521467253,
+        "is_sharpe": 1.6805881493752703,
+        "is_max_dd": -7.544763124856363,
+        "oos_pnl_pct": 0.9126247524225436,
+        "oos_sharpe": 1.058405690388629,
+        "oos_max_dd": -2.8632594332353802
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "n_fills": 900,
+        "is_pnl_pct": 21.90721580546202,
+        "is_sharpe": 5.81532625195838,
+        "is_max_dd": -6.683803011944018,
+        "oos_pnl_pct": 10.734475450381796,
+        "oos_sharpe": 6.984485773661061,
+        "oos_max_dd": -4.179499010041255
+      },
+      {
+        "symbol": "ADAUSDT",
+        "n_fills": 602,
+        "is_pnl_pct": 12.253134737953715,
+        "is_sharpe": 3.2450282821501206,
+        "is_max_dd": -9.077425952677276,
+        "oos_pnl_pct": 4.1998147325374156,
+        "oos_sharpe": 5.851143794145581,
+        "oos_max_dd": -1.5580147131300692
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "n_fills": 536,
+        "is_pnl_pct": 9.846534094491526,
+        "is_sharpe": 2.3265353716321244,
+        "is_max_dd": -7.277901722778024,
+        "oos_pnl_pct": 5.927456235584941,
+        "oos_sharpe": 7.0979248771998895,
+        "oos_max_dd": -1.6162221262392997
+      },
+      {
+        "symbol": "USDCUSDT",
+        "n_fills": 0,
+        "is_pnl_pct": 0.0,
+        "is_sharpe": 9.636153957465618e-17,
+        "is_max_dd": -3.637978807091713e-14,
+        "oos_pnl_pct": -3.637978807091713e-14,
+        "oos_sharpe": -0.06944753398249681,
+        "oos_max_dd": -3.637978807091713e-14
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "n_fills": 145,
+        "is_pnl_pct": -1.6488012273273307,
+        "is_sharpe": -1.4630537464010627,
+        "is_max_dd": -3.468478148670765,
+        "oos_pnl_pct": 1.5669708926791828,
+        "oos_sharpe": 3.8114731516646607,
+        "oos_max_dd": -1.3621233781880255
+      }
+    ]
+  },
+  {
+    "alpha_id": "GR1514",
+    "strategy": "grid",
+    "n_grid": 5,
+    "grid_step": 0.004982369795533242,
+    "tp_steps": 1,
+    "recenter_bars": 30,
+    "recenter_threshold": 0.06842645081156125,
+    "leverage": 1,
+    "target_pct": 0.5,
+    "is_sharpe_mean": 2.4986470699375927,
+    "is_pnl_pct_mean": 3.0155519687494037,
+    "is_max_dd_worst": -3.48652656945349,
+    "oos_sharpe_mean": 3.970928145577112,
+    "oos_pnl_pct_mean": 1.0988477524056344,
+    "oos_max_dd_worst": -1.437664255075324,
+    "n_sym_profit_oos": 9,
+    "avg_fills": 460.1,
+    "per_symbol": [
+      {
+        "symbol": "BTCUSDT",
+        "n_fills": 464,
+        "is_pnl_pct": 4.161132497104809,
+        "is_sharpe": 4.999273479075441,
+        "is_max_dd": -1.4533657875832433,
+        "oos_pnl_pct": 0.5236223934496047,
+        "oos_sharpe": 3.1558502678329496,
+        "oos_max_dd": -0.3799448671223763
+      },
+      {
+        "symbol": "ETHUSDT",
+        "n_fills": 579,
+        "is_pnl_pct": 3.0371646485751445,
+        "is_sharpe": 2.4990938196479697,
+        "is_max_dd": -2.214134175647232,
+        "oos_pnl_pct": 1.7557688395457263,
+        "oos_sharpe": 4.966540605637163,
+        "oos_max_dd": -0.8529875147525672
+      },
+      {
+        "symbol": "SOLUSDT",
+        "n_fills": 608,
+        "is_pnl_pct": 5.005323132877638,
+        "is_sharpe": 3.5510045920963536,
+        "is_max_dd": -3.48652656945349,
+        "oos_pnl_pct": 0.5119287173676457,
+        "oos_sharpe": 1.5198047423014798,
+        "oos_max_dd": -1.437664255075324
+      },
+      {
+        "symbol": "BNBUSDT",
+        "n_fills": 318,
+        "is_pnl_pct": 2.619835174060299,
+        "is_sharpe": 4.041839358307204,
+        "is_max_dd": -1.1484949799243622,
+        "oos_pnl_pct": 0.6324643031720552,
+        "oos_sharpe": 5.733657593942848,
+        "oos_max_dd": -0.23064142810606428
+      },
+      {
+        "symbol": "XRPUSDT",
+        "n_fills": 404,
+        "is_pnl_pct": 1.6636000614028126,
+        "is_sharpe": 1.8376223796974158,
+        "is_max_dd": -2.4487104732037186,
+        "oos_pnl_pct": 0.3292154634103281,
+        "oos_sharpe": 1.146908903109686,
+        "oos_max_dd": -0.9537517650974041
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "n_fills": 922,
+        "is_pnl_pct": 7.318144070089365,
+        "is_sharpe": 5.667778199985963,
+        "is_max_dd": -2.2400963311937265,
+        "oos_pnl_pct": 3.65032677179217,
+        "oos_sharpe": 7.106176855627903,
+        "oos_max_dd": -1.3978776024702166
+      },
+      {
+        "symbol": "ADAUSDT",
+        "n_fills": 618,
+        "is_pnl_pct": 4.145943721794956,
+        "is_sharpe": 3.276211844752467,
+        "is_max_dd": -3.0398191987061,
+        "oos_pnl_pct": 1.4133545917364974,
+        "oos_sharpe": 5.910579826073379,
+        "oos_max_dd": -0.5240102809597192
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "n_fills": 558,
+        "is_pnl_pct": 3.4211525939954113,
+        "is_sharpe": 2.3945403336370035,
+        "is_max_dd": -2.3674759941553205,
+        "oos_pnl_pct": 2.0097927550101846,
+        "oos_sharpe": 6.842342568906183,
+        "oos_max_dd": -0.511618505196293
+      },
+      {
+        "symbol": "USDCUSDT",
+        "n_fills": 0,
+        "is_pnl_pct": 0.0,
+        "is_sharpe": 9.636153957465618e-17,
+        "is_max_dd": -3.637978807091713e-14,
+        "oos_pnl_pct": -3.637978807091713e-14,
+        "oos_sharpe": -0.06944753398249681,
+        "oos_max_dd": -3.637978807091713e-14
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "n_fills": 130,
+        "is_pnl_pct": -1.2167762124064028,
+        "is_sharpe": -3.280893307823892,
+        "is_max_dd": -1.6288144793271204,
+        "oos_pnl_pct": 0.16200368857216743,
+        "oos_sharpe": 3.3968676263220283,
+        "oos_max_dd": -0.1577120785014995
+      }
+    ]
+  },
+  {
+    "alpha_id": "GR1389",
+    "strategy": "grid",
+    "n_grid": 8,
+    "grid_step": 0.0042204370772072316,
+    "tp_steps": 1,
+    "recenter_bars": 30,
+    "recenter_threshold": 0.0697106990973269,
+    "leverage": 1,
+    "target_pct": 0.5,
+    "is_sharpe_mean": 2.4499331140264133,
+    "is_pnl_pct_mean": 2.1538022502363585,
+    "is_max_dd_worst": -2.6097544017809193,
+    "oos_sharpe_mean": 3.95209417698456,
+    "oos_pnl_pct_mean": 0.7505014731597403,
+    "oos_max_dd_worst": -1.097804600945674,
+    "n_sym_profit_oos": 9,
+    "avg_fills": 631.5,
+    "per_symbol": [
+      {
+        "symbol": "BTCUSDT",
+        "n_fills": 513,
+        "is_pnl_pct": 1.946744209118915,
+        "is_sharpe": 3.336568419228286,
+        "is_max_dd": -1.073787012187313,
+        "oos_pnl_pct": 0.03282762034030384,
+        "oos_sharpe": 0.18604613821940771,
+        "oos_max_dd": -0.4600232281174977
+      },
+      {
+        "symbol": "ETHUSDT",
+        "n_fills": 842,
+        "is_pnl_pct": 2.6134315522507494,
+        "is_sharpe": 2.570846611395325,
+        "is_max_dd": -1.827053545796407,
+        "oos_pnl_pct": 1.1754164060905896,
+        "oos_sharpe": 5.4023290614946475,
+        "oos_max_dd": -0.5118431402472925
+      },
+      {
+        "symbol": "SOLUSDT",
+        "n_fills": 828,
+        "is_pnl_pct": 3.5473742941242197,
+        "is_sharpe": 3.296477554853638,
+        "is_max_dd": -2.6097544017809193,
+        "oos_pnl_pct": 0.5975699940504455,
+        "oos_sharpe": 2.6602662636141363,
+        "oos_max_dd": -0.8487506313081757
+      },
+      {
+        "symbol": "BNBUSDT",
+        "n_fills": 418,
+        "is_pnl_pct": 1.5977712510018136,
+        "is_sharpe": 3.9246319464285424,
+        "is_max_dd": -0.6870656633250474,
+        "oos_pnl_pct": 0.6933845116353586,
+        "oos_sharpe": 8.239566818861203,
+        "oos_max_dd": -0.16162009672343627
+      },
+      {
+        "symbol": "XRPUSDT",
+        "n_fills": 595,
+        "is_pnl_pct": 1.2833386631834764,
+        "is_sharpe": 1.828594074079938,
+        "is_max_dd": -1.950013355363826,
+        "oos_pnl_pct": 0.41186040520338796,
+        "oos_sharpe": 1.4099430721936443,
+        "oos_max_dd": -0.9497143813671391
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "n_fills": 1199,
+        "is_pnl_pct": 5.038410652791717,
+        "is_sharpe": 5.8740366118418015,
+        "is_max_dd": -1.2128067271311556,
+        "oos_pnl_pct": 2.1049198378082656,
+        "oos_sharpe": 5.5199117993203055,
+        "oos_max_dd": -1.097804600945674
+      },
+      {
+        "symbol": "ADAUSDT",
+        "n_fills": 921,
+        "is_pnl_pct": 3.656378400035919,
+        "is_sharpe": 4.034431960909416,
+        "is_max_dd": -1.8984420494336338,
+        "oos_pnl_pct": 0.9385127992557499,
+        "oos_sharpe": 5.601251510320583,
+        "oos_max_dd": -0.3185151152032268
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "n_fills": 796,
+        "is_pnl_pct": 2.8120910708299016,
+        "is_sharpe": 2.671639903296748,
+        "is_max_dd": -1.4080541814748722,
+        "oos_pnl_pct": 1.2136480769049558,
+        "oos_sharpe": 7.174207013482424,
+        "oos_max_dd": -0.22519999231657492
+      },
+      {
+        "symbol": "USDCUSDT",
+        "n_fills": 0,
+        "is_pnl_pct": 0.0,
+        "is_sharpe": 9.636153957465618e-17,
+        "is_max_dd": -3.637978807091713e-14,
+        "oos_pnl_pct": -3.637978807091713e-14,
+        "oos_sharpe": -0.06944753398249681,
+        "oos_max_dd": -3.637978807091713e-14
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "n_fills": 203,
+        "is_pnl_pct": -0.9575175909731297,
+        "is_sharpe": -3.037895941769564,
+        "is_max_dd": -1.28202749541113,
+        "oos_pnl_pct": 0.3368750803083822,
+        "oos_sharpe": 3.396867626321746,
+        "oos_max_dd": -0.3279509841970867
+      }
+    ]
+  },
+  {
+    "alpha_id": "GR1212",
+    "strategy": "grid",
+    "n_grid": 8,
+    "grid_step": 0.006260244942666605,
+    "tp_steps": 1,
+    "recenter_bars": 30,
+    "recenter_threshold": 0.07916330525817074,
+    "leverage": 1,
+    "target_pct": 0.5,
+    "is_sharpe_mean": 2.6224846252749594,
+    "is_pnl_pct_mean": 1.6804791245674953,
+    "is_max_dd_worst": -1.7683078317117178,
+    "oos_sharpe_mean": 3.8063513434518574,
+    "oos_pnl_pct_mean": 0.6185919385272609,
+    "oos_max_dd_worst": -0.7814072250201571,
+    "n_sym_profit_oos": 9,
+    "avg_fills": 310.5,
+    "per_symbol": [
+      {
+        "symbol": "BTCUSDT",
+        "n_fills": 282,
+        "is_pnl_pct": 1.860963554616992,
+        "is_sharpe": 4.161033664145822,
+        "is_max_dd": -0.8495729235860745,
+        "oos_pnl_pct": 0.18473609942315306,
+        "oos_sharpe": 1.5474764699195667,
+        "oos_max_dd": -0.2865935296527823
+      },
+      {
+        "symbol": "ETHUSDT",
+        "n_fills": 357,
+        "is_pnl_pct": 1.2174899069113962,
+        "is_sharpe": 1.610017168437026,
+        "is_max_dd": -1.3858922732231986,
+        "oos_pnl_pct": 0.7430839811139412,
+        "oos_sharpe": 4.095799386773172,
+        "oos_max_dd": -0.34975185439128836
+      },
+      {
+        "symbol": "SOLUSDT",
+        "n_fills": 458,
+        "is_pnl_pct": 3.3783964136308353,
+        "is_sharpe": 4.020040530635695,
+        "is_max_dd": -1.7683078317117178,
+        "oos_pnl_pct": 0.7287226708124399,
+        "oos_sharpe": 4.7970219745738785,
+        "oos_max_dd": -0.4277759786321986
+      },
+      {
+        "symbol": "BNBUSDT",
+        "n_fills": 196,
+        "is_pnl_pct": 1.1978454278297976,
+        "is_sharpe": 3.364973285416461,
+        "is_max_dd": -0.6170420636574636,
+        "oos_pnl_pct": 0.3028940115392288,
+        "oos_sharpe": 5.858203514622395,
+        "oos_max_dd": -0.0849854499371395
+      },
+      {
+        "symbol": "XRPUSDT",
+        "n_fills": 306,
+        "is_pnl_pct": 1.4289853343101642,
+        "is_sharpe": 3.1501035002556286,
+        "is_max_dd": -1.091291338823521,
+        "oos_pnl_pct": 0.4463892484119606,
+        "oos_sharpe": 2.2519467879038624,
+        "oos_max_dd": -0.595667820865965
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "n_fills": 590,
+        "is_pnl_pct": 3.879786743553013,
+        "is_sharpe": 5.9354277858936415,
+        "is_max_dd": -0.9873209223405319,
+        "oos_pnl_pct": 1.4998293238864973,
+        "oos_sharpe": 5.645087668000644,
+        "oos_max_dd": -0.7814072250201571
+      },
+      {
+        "symbol": "ADAUSDT",
+        "n_fills": 433,
+        "is_pnl_pct": 2.175625396403029,
+        "is_sharpe": 3.3425664426723967,
+        "is_max_dd": -1.4366943813886792,
+        "oos_pnl_pct": 1.0728940058515763,
+        "oos_sharpe": 4.805049746445284,
+        "oos_max_dd": -0.5943727291307914
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "n_fills": 386,
+        "is_pnl_pct": 2.1633845747098897,
+        "is_sharpe": 2.731833202103426,
+        "is_max_dd": -0.9499081275044591,
+        "oos_pnl_pct": 0.9169282611153176,
+        "oos_sharpe": 5.735507793940261,
+        "oos_max_dd": -0.3612917931777338
+      },
+      {
+        "symbol": "USDCUSDT",
+        "n_fills": 0,
+        "is_pnl_pct": 0.0,
+        "is_sharpe": 9.636153957465618e-17,
+        "is_max_dd": -3.637978807091713e-14,
+        "oos_pnl_pct": -3.637978807091713e-14,
+        "oos_sharpe": -0.06944753398249681,
+        "oos_max_dd": -3.637978807091713e-14
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "n_fills": 97,
+        "is_pnl_pct": -0.4976861062901662,
+        "is_sharpe": -2.091149326810502,
+        "is_max_dd": -0.6623923128149727,
+        "oos_pnl_pct": 0.290441783118531,
+        "oos_sharpe": 3.3968676263220163,
+        "oos_max_dd": -0.2827477429867395
+      }
+    ]
+  },
+  {
+    "alpha_id": "GR1490",
+    "strategy": "grid",
+    "n_grid": 6,
+    "grid_step": 0.005387024009708843,
+    "tp_steps": 1,
+    "recenter_bars": 30,
+    "recenter_threshold": 0.07258273513629615,
+    "leverage": 1,
+    "target_pct": 0.5,
+    "is_sharpe_mean": 2.602340400997134,
+    "is_pnl_pct_mean": 2.3976893796292336,
+    "is_max_dd_worst": -2.8442771793217614,
+    "oos_sharpe_mean": 3.762939486145182,
+    "oos_pnl_pct_mean": 0.7948270948293013,
+    "oos_max_dd_worst": -1.2577219423386667,
+    "n_sym_profit_oos": 9,
+    "avg_fills": 399.7,
+    "per_symbol": [
+      {
+        "symbol": "BTCUSDT",
+        "n_fills": 398,
+        "is_pnl_pct": 3.286931018574505,
+        "is_sharpe": 5.111744536244107,
+        "is_max_dd": -1.2809770882246811,
+        "oos_pnl_pct": 0.26601770777122513,
+        "oos_sharpe": 2.0056460323513914,
+        "oos_max_dd": -0.3229670543655993
+      },
+      {
+        "symbol": "ETHUSDT",
+        "n_fills": 523,
+        "is_pnl_pct": 2.5389397755834398,
+        "is_sharpe": 2.3344300107366327,
+        "is_max_dd": -1.8600501463800538,
+        "oos_pnl_pct": 1.3488727744255267,
+        "oos_sharpe": 5.1450627466098995,
+        "oos_max_dd": -0.6000677058788096
+      },
+      {
+        "symbol": "SOLUSDT",
+        "n_fills": 559,
+        "is_pnl_pct": 4.3486722945750085,
+        "is_sharpe": 3.5458438153354677,
+        "is_max_dd": -2.8442771793217614,
+        "oos_pnl_pct": 0.6572522951031533,
+        "oos_sharpe": 2.1700262707495184,
+        "oos_max_dd": -1.2577219423386667
+      },
+      {
+        "symbol": "BNBUSDT",
+        "n_fills": 266,
+        "is_pnl_pct": 1.87877531969134,
+        "is_sharpe": 3.98428457434907,
+        "is_max_dd": -0.7758978603039759,
+        "oos_pnl_pct": 0.5375883616840292,
+        "oos_sharpe": 6.852732946136177,
+        "oos_max_dd": -0.13412879890895057
+      },
+      {
+        "symbol": "XRPUSDT",
+        "n_fills": 333,
+        "is_pnl_pct": 1.3997139304520532,
+        "is_sharpe": 2.171286154449533,
+        "is_max_dd": -1.4325601107236436,
+        "oos_pnl_pct": 0.22344343919783569,
+        "oos_sharpe": 2.105898844538422,
+        "oos_max_dd": -0.2839019738078241
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "n_fills": 828,
+        "is_pnl_pct": 5.900098999039346,
+        "is_sharpe": 6.184619388746243,
+        "is_max_dd": -1.527628104670839,
+        "oos_pnl_pct": 3.003388753908057,
+        "oos_sharpe": 7.79752828371487,
+        "oos_max_dd": -1.013694749117185
+      },
+      {
+        "symbol": "ADAUSDT",
+        "n_fills": 511,
+        "is_pnl_pct": 2.63251766302199,
+        "is_sharpe": 2.7524809490194575,
+        "is_max_dd": -2.512230337226265,
+        "oos_pnl_pct": 0.6082460031691881,
+        "oos_sharpe": 3.3723785841219596,
+        "oos_max_dd": -0.40796772024899836
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "n_fills": 464,
+        "is_pnl_pct": 2.6541798256989932,
+        "is_sharpe": 2.0803474518584575,
+        "is_max_dd": -1.9204061985021141,
+        "oos_pnl_pct": 0.915180580701417,
+        "oos_sharpe": 4.852701060890444,
+        "oos_max_dd": -0.5171606041438827
+      },
+      {
+        "symbol": "USDCUSDT",
+        "n_fills": 0,
+        "is_pnl_pct": 0.0,
+        "is_sharpe": 9.636153957465618e-17,
+        "is_max_dd": -3.637978807091713e-14,
+        "oos_pnl_pct": -3.637978807091713e-14,
+        "oos_sharpe": -0.06944753398249681,
+        "oos_max_dd": -3.637978807091713e-14
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "n_fills": 115,
+        "is_pnl_pct": -0.6629350303443425,
+        "is_sharpe": -2.1416328707676278,
+        "is_max_dd": -1.099864773512163,
+        "oos_pnl_pct": 0.3882810323326157,
+        "oos_sharpe": 3.396867626321634,
+        "oos_max_dd": -0.3779951505524878
+      }
+    ]
+  },
+  {
+    "alpha_id": "GR2533",
+    "strategy": "grid",
+    "n_grid": 4,
+    "grid_step": 0.004985212950443119,
+    "tp_steps": 1,
+    "recenter_bars": 30,
+    "recenter_threshold": 0.07237551092509925,
+    "leverage": 2,
+    "target_pct": 0.5,
+    "is_sharpe_mean": 2.42230790221131,
+    "is_pnl_pct_mean": 6.549947354145165,
+    "is_max_dd_worst": -7.8046408101640194,
+    "oos_sharpe_mean": 3.8487091844294268,
+    "oos_pnl_pct_mean": 2.604232077967852,
+    "oos_max_dd_worst": -3.593316017788056,
+    "n_sym_profit_oos": 9,
+    "avg_fills": 426.9,
+    "per_symbol": [
+      {
+        "symbol": "BTCUSDT",
+        "n_fills": 456,
+        "is_pnl_pct": 10.135939181351405,
+        "is_sharpe": 5.039706334317086,
+        "is_max_dd": -3.7162641496142355,
+        "oos_pnl_pct": 1.310721081358788,
+        "oos_sharpe": 3.1662983410969257,
+        "oos_max_dd": -0.9497714359877683
+      },
+      {
+        "symbol": "ETHUSDT",
+        "n_fills": 533,
+        "is_pnl_pct": 6.090907817591142,
+        "is_sharpe": 2.245062710161809,
+        "is_max_dd": -5.451340537833457,
+        "oos_pnl_pct": 4.321928272801797,
+        "oos_sharpe": 4.892041753694921,
+        "oos_max_dd": -2.1324007274896575
+      },
+      {
+        "symbol": "SOLUSDT",
+        "n_fills": 560,
+        "is_pnl_pct": 10.942955160199254,
+        "is_sharpe": 3.638435822425648,
+        "is_max_dd": -6.7247683961081925,
+        "oos_pnl_pct": 1.2126409935936318,
+        "oos_sharpe": 1.4423644592572111,
+        "oos_max_dd": -3.593316017788056
+      },
+      {
+        "symbol": "BNBUSDT",
+        "n_fills": 310,
+        "is_pnl_pct": 6.280146746388855,
+        "is_sharpe": 3.987573695487749,
+        "is_max_dd": -2.8707061675846854,
+        "oos_pnl_pct": 1.5823187267954564,
+        "oos_sharpe": 5.738025545319394,
+        "oos_max_dd": -0.5763432774788271
+      },
+      {
+        "symbol": "XRPUSDT",
+        "n_fills": 378,
+        "is_pnl_pct": 3.3422987793103496,
+        "is_sharpe": 1.5210988497229148,
+        "is_max_dd": -6.326537885701909,
+        "oos_pnl_pct": 0.7545117586463675,
+        "oos_sharpe": 1.0512876388680183,
+        "oos_max_dd": -2.384439321368736
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "n_fills": 850,
+        "is_pnl_pct": 16.383093267311942,
+        "is_sharpe": 6.074518567581189,
+        "is_max_dd": -4.7381527819246365,
+        "oos_pnl_pct": 8.58172307154491,
+        "oos_sharpe": 6.974905590029818,
+        "oos_max_dd": -3.3241171237889104
+      },
+      {
+        "symbol": "ADAUSDT",
+        "n_fills": 556,
+        "is_pnl_pct": 8.519720296896066,
+        "is_sharpe": 2.9387961726589507,
+        "is_max_dd": -7.8046408101640194,
+        "oos_pnl_pct": 3.259638297385391,
+        "oos_sharpe": 5.525586123547912,
+        "oos_max_dd": -1.3317162174101578
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "n_fills": 498,
+        "is_pnl_pct": 6.912197379491444,
+        "is_sharpe": 2.143801423870633,
+        "is_max_dd": -5.660899414357191,
+        "oos_pnl_pct": 4.613843762201468,
+        "oos_sharpe": 6.369162300140807,
+        "oos_max_dd": -1.278969687401477
+      },
+      {
+        "symbol": "USDCUSDT",
+        "n_fills": 0,
+        "is_pnl_pct": 0.0,
+        "is_sharpe": 9.636153957465618e-17,
+        "is_max_dd": -3.637978807091713e-14,
+        "oos_pnl_pct": -3.637978807091713e-14,
+        "oos_sharpe": -0.06944753398249681,
+        "oos_max_dd": -3.637978807091713e-14
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "n_fills": 128,
+        "is_pnl_pct": -3.107785087088814,
+        "is_sharpe": -3.365914554112878,
+        "is_max_dd": -4.138326273187577,
+        "oos_pnl_pct": 0.40499481535074666,
+        "oos_sharpe": 3.396867626321764,
+        "oos_max_dd": -0.39426617180295576
+      }
+    ]
+  },
+  {
+    "alpha_id": "GR2695",
+    "strategy": "grid",
+    "n_grid": 8,
+    "grid_step": 0.006162766589308804,
+    "tp_steps": 2,
+    "recenter_bars": 30,
+    "recenter_threshold": 0.06941569653154692,
+    "leverage": 1,
+    "target_pct": 0.5,
+    "is_sharpe_mean": 2.7212181180409005,
+    "is_pnl_pct_mean": 2.168634837100364,
+    "is_max_dd_worst": -2.261517733079854,
+    "oos_sharpe_mean": 3.6440082347920466,
+    "oos_pnl_pct_mean": 0.562278012091314,
+    "oos_max_dd_worst": -0.8500848665316335,
+    "n_sym_profit_oos": 9,
+    "avg_fills": 196.8,
+    "per_symbol": [
+      {
+        "symbol": "BTCUSDT",
+        "n_fills": 146,
+        "is_pnl_pct": 1.178357259718905,
+        "is_sharpe": 2.5202258141201135,
+        "is_max_dd": -1.0559752119651604,
+        "oos_pnl_pct": 0.12586207255790213,
+        "oos_sharpe": 0.7782401478999544,
+        "oos_max_dd": -0.4431712892103315
+      },
+      {
+        "symbol": "ETHUSDT",
+        "n_fills": 288,
+        "is_pnl_pct": 3.131527564603366,
+        "is_sharpe": 3.48214020150295,
+        "is_max_dd": -1.7748427772495596,
+        "oos_pnl_pct": 1.3011294145358807,
+        "oos_sharpe": 6.475742621349061,
+        "oos_max_dd": -0.4516099129418581
+      },
+      {
+        "symbol": "SOLUSDT",
+        "n_fills": 282,
+        "is_pnl_pct": 4.265251724263508,
+        "is_sharpe": 4.146829613132826,
+        "is_max_dd": -2.261517733079854,
+        "oos_pnl_pct": 0.32725984215312565,
+        "oos_sharpe": 1.7611063589787948,
+        "oos_max_dd": -0.8500848665316335
+      },
+      {
+        "symbol": "BNBUSDT",
+        "n_fills": 137,
+        "is_pnl_pct": 1.8355824773800304,
+        "is_sharpe": 3.828854067868126,
+        "is_max_dd": -0.893528405869256,
+        "oos_pnl_pct": 0.526576413485709,
+        "oos_sharpe": 8.966339419133915,
+        "oos_max_dd": -0.10035321521992956
+      },
+      {
+        "symbol": "XRPUSDT",
+        "n_fills": 167,
+        "is_pnl_pct": 1.5377459075385014,
+        "is_sharpe": 3.0590752629175126,
+        "is_max_dd": -1.4496205642321547,
+        "oos_pnl_pct": 0.26078714181736357,
+        "oos_sharpe": 3.2319732439469426,
+        "oos_max_dd": -0.21579900948052455
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "n_fills": 371,
+        "is_pnl_pct": 5.437550507314154,
+        "is_sharpe": 6.884087898590015,
+        "is_max_dd": -1.3029712551252122,
+        "oos_pnl_pct": 1.0431357251460578,
+        "oos_sharpe": 3.5858306616153555,
+        "oos_max_dd": -0.7651542791864631
+      },
+      {
+        "symbol": "ADAUSDT",
+        "n_fills": 304,
+        "is_pnl_pct": 3.5180133950033268,
+        "is_sharpe": 5.073493021283608,
+        "is_max_dd": -2.093492342302907,
+        "oos_pnl_pct": 1.1723079470000812,
+        "oos_sharpe": 5.97600678124265,
+        "oos_max_dd": -0.34590222463957615
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "n_fills": 216,
+        "is_pnl_pct": 2.0237924854790252,
+        "is_sharpe": 2.1830304632017365,
+        "is_max_dd": -1.2320132288132664,
+        "oos_pnl_pct": 0.5272838368861267,
+        "oos_sharpe": 2.3374230214143132,
+        "oos_max_dd": -0.6612256685662214
+      },
+      {
+        "symbol": "USDCUSDT",
+        "n_fills": 0,
+        "is_pnl_pct": 0.0,
+        "is_sharpe": 9.636153957465618e-17,
+        "is_max_dd": -3.637978807091713e-14,
+        "oos_pnl_pct": -3.637978807091713e-14,
+        "oos_sharpe": -0.06944753398249681,
+        "oos_max_dd": -3.637978807091713e-14
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "n_fills": 57,
+        "is_pnl_pct": -1.241472950297175,
+        "is_sharpe": -3.96555516220788,
+        "is_max_dd": -1.493831421221821,
+        "oos_pnl_pct": 0.3384377273309292,
+        "oos_sharpe": 3.396867626321977,
+        "oos_max_dd": -0.32947223542329085
+      }
+    ]
+  },
+  {
+    "alpha_id": "GR0978",
+    "strategy": "grid",
+    "n_grid": 4,
+    "grid_step": 0.006304883353198308,
+    "tp_steps": 2,
+    "recenter_bars": 30,
+    "recenter_threshold": 0.07263914928911389,
+    "leverage": 2,
+    "target_pct": 0.5,
+    "is_sharpe_mean": 2.605167256777171,
+    "is_pnl_pct_mean": 7.287287922282786,
+    "is_max_dd_worst": -8.545340521319794,
+    "oos_sharpe_mean": 3.742791234178062,
+    "oos_pnl_pct_mean": 1.9573113755564049,
+    "oos_max_dd_worst": -3.054945037707457,
+    "n_sym_profit_oos": 9,
+    "avg_fills": 170.0,
+    "per_symbol": [
+      {
+        "symbol": "BTCUSDT",
+        "n_fills": 142,
+        "is_pnl_pct": 4.5951784572625725,
+        "is_sharpe": 2.3946264433907927,
+        "is_max_dd": -4.190244457943172,
+        "oos_pnl_pct": 0.5720575792897581,
+        "oos_sharpe": 0.8913956963264225,
+        "oos_max_dd": -1.769912443404537
+      },
+      {
+        "symbol": "ETHUSDT",
+        "n_fills": 248,
+        "is_pnl_pct": 9.856750393585315,
+        "is_sharpe": 3.184765942183754,
+        "is_max_dd": -7.256126698720509,
+        "oos_pnl_pct": 4.8398791262142735,
+        "oos_sharpe": 6.0070655387586624,
+        "oos_max_dd": -1.8050919323243035
+      },
+      {
+        "symbol": "SOLUSDT",
+        "n_fills": 232,
+        "is_pnl_pct": 13.396662147439638,
+        "is_sharpe": 4.1179872242692195,
+        "is_max_dd": -7.135722444384136,
+        "oos_pnl_pct": 1.0005129731941997,
+        "oos_sharpe": 1.8332626971705057,
+        "oos_max_dd": -2.2245939998512947
+      },
+      {
+        "symbol": "BNBUSDT",
+        "n_fills": 127,
+        "is_pnl_pct": 6.84846764994125,
+        "is_sharpe": 3.5793488556759003,
+        "is_max_dd": -3.5185868455965283,
+        "oos_pnl_pct": 1.9789645225750245,
+        "oos_sharpe": 9.826426561578144,
+        "oos_max_dd": -0.37411040986697114
+      },
+      {
+        "symbol": "XRPUSDT",
+        "n_fills": 137,
+        "is_pnl_pct": 4.5052504194595535,
+        "is_sharpe": 2.406584402673768,
+        "is_max_dd": -5.7635228775904945,
+        "oos_pnl_pct": 0.7062524597483752,
+        "oos_sharpe": 2.356230654996358,
+        "oos_max_dd": -0.9101059800959047
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "n_fills": 323,
+        "is_pnl_pct": 19.066915606877284,
+        "is_sharpe": 7.175539677809636,
+        "is_max_dd": -4.4685610119329064,
+        "oos_pnl_pct": 3.254155874522276,
+        "oos_sharpe": 3.194159315923145,
+        "oos_max_dd": -3.054945037707457
+      },
+      {
+        "symbol": "ADAUSDT",
+        "n_fills": 250,
+        "is_pnl_pct": 10.422132773889297,
+        "is_sharpe": 4.216317854434948,
+        "is_max_dd": -8.545340521319794,
+        "oos_pnl_pct": 4.046760955171122,
+        "oos_sharpe": 5.167347134503151,
+        "oos_max_dd": -1.4676773296774446
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "n_fills": 191,
+        "is_pnl_pct": 7.609793682891795,
+        "is_sharpe": 2.6210055198597138,
+        "is_max_dd": -4.707918148366753,
+        "oos_pnl_pct": 2.754752868490832,
+        "oos_sharpe": 4.824604650185068,
+        "oos_max_dd": -1.458248924641066
+      },
+      {
+        "symbol": "USDCUSDT",
+        "n_fills": 0,
+        "is_pnl_pct": 0.0,
+        "is_sharpe": 9.636153957465618e-17,
+        "is_max_dd": -3.637978807091713e-14,
+        "oos_pnl_pct": -3.637978807091713e-14,
+        "oos_sharpe": -0.06944753398249681,
+        "oos_max_dd": -3.637978807091713e-14
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "n_fills": 50,
+        "is_pnl_pct": -3.4282719085188367,
+        "is_sharpe": -3.6445033525260246,
+        "is_max_dd": -4.613817410681804,
+        "oos_pnl_pct": 0.4197773963582222,
+        "oos_sharpe": 3.396867626321656,
+        "oos_max_dd": -0.408657150161871
+      }
+    ]
+  },
+  {
+    "alpha_id": "GR2562",
+    "strategy": "grid",
+    "n_grid": 6,
+    "grid_step": 0.005323536666387144,
+    "tp_steps": 1,
+    "recenter_bars": 30,
+    "recenter_threshold": 0.06609342811354514,
+    "leverage": 2,
+    "target_pct": 0.5,
+    "is_sharpe_mean": 2.67724466000615,
+    "is_pnl_pct_mean": 4.948543070215178,
+    "is_max_dd_worst": -5.700541207365095,
+    "oos_sharpe_mean": 3.671139766930337,
+    "oos_pnl_pct_mean": 1.532379511900068,
+    "oos_max_dd_worst": -2.5254728912079734,
+    "n_sym_profit_oos": 9,
+    "avg_fills": 408.9,
+    "per_symbol": [
+      {
+        "symbol": "BTCUSDT",
+        "n_fills": 406,
+        "is_pnl_pct": 6.6129123132603675,
+        "is_sharpe": 5.012530783097795,
+        "is_max_dd": -2.577331604596366,
+        "oos_pnl_pct": 0.5628420630599976,
+        "oos_sharpe": 2.1081738392913625,
+        "oos_max_dd": -0.6504397312652145
+      },
+      {
+        "symbol": "ETHUSDT",
+        "n_fills": 525,
+        "is_pnl_pct": 5.87684207814591,
+        "is_sharpe": 2.7054998877175387,
+        "is_max_dd": -3.7282578027153614,
+        "oos_pnl_pct": 1.7609332371078927,
+        "oos_sharpe": 3.659602064552332,
+        "oos_max_dd": -1.6233145965653968
+      },
+      {
+        "symbol": "SOLUSDT",
+        "n_fills": 571,
+        "is_pnl_pct": 8.834575370015136,
+        "is_sharpe": 3.6163585557417255,
+        "is_max_dd": -5.700541207365095,
+        "oos_pnl_pct": 1.293452631802902,
+        "oos_sharpe": 2.1302307775111027,
+        "oos_max_dd": -2.5254728912079734
+      },
+      {
+        "symbol": "BNBUSDT",
+        "n_fills": 270,
+        "is_pnl_pct": 3.736967790975978,
+        "is_sharpe": 3.960750378364082,
+        "is_max_dd": -1.557776094056753,
+        "oos_pnl_pct": 1.1090856494890977,
+        "oos_sharpe": 6.300842223922045,
+        "oos_max_dd": -0.3690264162897256
+      },
+      {
+        "symbol": "XRPUSDT",
+        "n_fills": 349,
+        "is_pnl_pct": 3.088202567502922,
+        "is_sharpe": 2.3887639937934217,
+        "is_max_dd": -2.8915989266276485,
+        "oos_pnl_pct": 0.44233452382943145,
+        "oos_sharpe": 2.356995342571803,
+        "oos_max_dd": -0.567177502129125
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "n_fills": 848,
+        "is_pnl_pct": 11.862382279701778,
+        "is_sharpe": 6.245232509557364,
+        "is_max_dd": -3.057625764570494,
+        "oos_pnl_pct": 6.173378309496311,
+        "oos_sharpe": 7.795253091306989,
+        "oos_max_dd": -2.0357506130585534
+      },
+      {
+        "symbol": "ADAUSDT",
+        "n_fills": 527,
+        "is_pnl_pct": 5.508445190636976,
+        "is_sharpe": 2.861696957280142,
+        "is_max_dd": -5.030337932755774,
+        "oos_pnl_pct": 1.2010076740676232,
+        "oos_sharpe": 3.3260424353544877,
+        "oos_max_dd": -0.8189297041747522
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "n_fills": 476,
+        "is_pnl_pct": 5.279992077454736,
+        "is_sharpe": 2.103003810988602,
+        "is_max_dd": -3.866446681010384,
+        "oos_pnl_pct": 2.0040497200465324,
+        "oos_sharpe": 5.70683780245403,
+        "oos_max_dd": -0.9450698941099835
+      },
+      {
+        "symbol": "USDCUSDT",
+        "n_fills": 0,
+        "is_pnl_pct": 0.0,
+        "is_sharpe": 9.636153957465618e-17,
+        "is_max_dd": -3.637978807091713e-14,
+        "oos_pnl_pct": -3.637978807091713e-14,
+        "oos_sharpe": -0.06944753398249681,
+        "oos_max_dd": -3.637978807091713e-14
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "n_fills": 117,
+        "is_pnl_pct": -1.3148889655420317,
+        "is_sharpe": -2.1213902764791683,
+        "is_max_dd": -2.2218099995839293,
+        "oos_pnl_pct": 0.7767113101009272,
+        "oos_sharpe": 3.396867626321714,
+        "oos_max_dd": -0.7561355929071397
+      }
+    ]
+  },
+  {
+    "alpha_id": "GR1530",
+    "strategy": "grid",
+    "n_grid": 5,
+    "grid_step": 0.00419472345809825,
+    "tp_steps": 1,
+    "recenter_bars": 30,
+    "recenter_threshold": 0.07542072710131371,
+    "leverage": 2,
+    "target_pct": 0.5,
+    "is_sharpe_mean": 2.2048307570102064,
+    "is_pnl_pct_mean": 5.710682780935163,
+    "is_max_dd_worst": -6.801604758248304,
+    "oos_sharpe_mean": 3.9319671364494466,
+    "oos_pnl_pct_mean": 2.3237247504917304,
+    "oos_max_dd_worst": -3.268721710775899,
+    "n_sym_profit_oos": 9,
+    "avg_fills": 580.5,
+    "per_symbol": [
+      {
+        "symbol": "BTCUSDT",
+        "n_fills": 509,
+        "is_pnl_pct": 5.9354006281724105,
+        "is_sharpe": 3.207896179010459,
+        "is_max_dd": -3.488666871600035,
+        "oos_pnl_pct": 0.22802037896637556,
+        "oos_sharpe": 0.4030215063709262,
+        "oos_max_dd": -1.4743347859498135
+      },
+      {
+        "symbol": "ETHUSDT",
+        "n_fills": 764,
+        "is_pnl_pct": 6.296434453091878,
+        "is_sharpe": 2.2771792627745344,
+        "is_max_dd": -5.720025101365773,
+        "oos_pnl_pct": 3.928232561959903,
+        "oos_sharpe": 5.812631523770219,
+        "oos_max_dd": -1.3158311229252648
+      },
+      {
+        "symbol": "SOLUSDT",
+        "n_fills": 746,
+        "is_pnl_pct": 9.415282113497488,
+        "is_sharpe": 3.1533417922039337,
+        "is_max_dd": -6.801604758248304,
+        "oos_pnl_pct": 1.8524476582237912,
+        "oos_sharpe": 2.527017057866101,
+        "oos_max_dd": -2.8905809504772515
+      },
+      {
+        "symbol": "BNBUSDT",
+        "n_fills": 412,
+        "is_pnl_pct": 4.9225512768837865,
+        "is_sharpe": 3.686978233052511,
+        "is_max_dd": -2.2003053534117316,
+        "oos_pnl_pct": 2.2076443948725504,
+        "oos_sharpe": 8.170064865702999,
+        "oos_max_dd": -0.5190742461142327
+      },
+      {
+        "symbol": "XRPUSDT",
+        "n_fills": 561,
+        "is_pnl_pct": 3.287271119393008,
+        "is_sharpe": 1.5075472225146336,
+        "is_max_dd": -6.436523067758207,
+        "oos_pnl_pct": 1.267057634521916,
+        "oos_sharpe": 1.3567237717110348,
+        "oos_max_dd": -2.992648728291897
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "n_fills": 1091,
+        "is_pnl_pct": 13.982567305475385,
+        "is_sharpe": 5.393563967678859,
+        "is_max_dd": -4.538585880855189,
+        "oos_pnl_pct": 6.231095961549563,
+        "oos_sharpe": 5.429234255933873,
+        "oos_max_dd": -3.268721710775899
+      },
+      {
+        "symbol": "ADAUSDT",
+        "n_fills": 813,
+        "is_pnl_pct": 9.205651721034428,
+        "is_sharpe": 3.593317736289558,
+        "is_max_dd": -6.317695457216432,
+        "oos_pnl_pct": 2.8947957646459144,
+        "oos_sharpe": 5.502648546296488,
+        "oos_max_dd": -1.0228795734595588
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "n_fills": 710,
+        "is_pnl_pct": 7.250320750097908,
+        "is_sharpe": 2.432061084541041,
+        "is_max_dd": -4.653190670258354,
+        "oos_pnl_pct": 3.5497914304452385,
+        "oos_sharpe": 6.790909744503707,
+        "oos_max_dd": -0.7322222373936166
+      },
+      {
+        "symbol": "USDCUSDT",
+        "n_fills": 0,
+        "is_pnl_pct": 0.0,
+        "is_sharpe": 9.636153957465618e-17,
+        "is_max_dd": -3.637978807091713e-14,
+        "oos_pnl_pct": -3.637978807091713e-14,
+        "oos_sharpe": -0.06944753398249681,
+        "oos_max_dd": -3.637978807091713e-14
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "n_fills": 199,
+        "is_pnl_pct": -3.18865155829466,
+        "is_sharpe": -3.2035779079634685,
+        "is_max_dd": -4.256598231695843,
+        "oos_pnl_pct": 1.0781617197320883,
+        "oos_sharpe": 3.396867626321625,
+        "oos_max_dd": -1.0496003348959857
+      }
+    ]
+  }
+]

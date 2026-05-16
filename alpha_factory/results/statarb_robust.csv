@@ -1,0 +1,1 @@
+alpha_id,strategy,sym_a,sym_b,lookback,entry,exit_thr,stop_z,hold_limit,is_sharpe,is_pnl_pct,is_max_dd,oos_sharpe,oos_pnl_pct,oos_max_dd,n_trades,score
