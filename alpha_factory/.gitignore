@@ -1,0 +1,5 @@
+data/
+paper_results/
+__pycache__/
+*.pyc
+results/*_full.csv
